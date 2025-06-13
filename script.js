@@ -35,5 +35,6 @@ botaoDeAcessibilidade.setAttribute('aria-expanded', !botaoSelecionado)
         document.body.classList.toggle('alto-contraste')
     })
 
-
 })
+
+ScrollReveal().reveal('#tropicalia', { delay: 500 });
