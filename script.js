@@ -37,4 +37,4 @@ botaoDeAcessibilidade.setAttribute('aria-expanded', !botaoSelecionado)
 
 })
 
-ScrollReveal().reveal('#tropicalia', { delay: 500 });
+ScrollReveal().reveal('#inicio', { delay: 500 });
